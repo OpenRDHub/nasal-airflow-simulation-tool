@@ -84,7 +84,9 @@
 ## 🗂 方案总览
 
 <!-- SOLUTIONS_INDEX_START -->
-> 暂无提交方案。比赛提交请 Fork 本仓库并开 [「提交成果链接」Issue](../../issues/new/choose)；赛后共建方案见 [solutions/ 指南](solutions/README.md)
+| 团队 | 方案 | 状态 | 简介 | 仓库/Demo |
+|---|---|---|---|---|
+| 帅帅 | [风见 Windcatcher](https://github.com/Handsome5201314/windcatcher) | — | 鼻腔建模与气流分析研究预览；仓库标注参赛队为空穴来风。 | [项目链接](https://github.com/Handsome5201314/windcatcher) |
 <!-- SOLUTIONS_INDEX_END -->
 
 
